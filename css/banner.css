@@ -1,0 +1,7 @@
+.banner{
+}
+
+.banner_imagem{
+    width: 100vw;
+    height: calc(100vh - 63px);
+}
