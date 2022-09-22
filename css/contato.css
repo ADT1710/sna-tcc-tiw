@@ -6,12 +6,6 @@
     justify-content: center;
 }
 
-.contato_form--label{
-    font-weight: bolder;
-    margin-top: 1rem;
-    margin-bottom: .2rem;
-}
-
 .contato_form--input{
     width: 40%;
     border: none;
@@ -19,6 +13,8 @@
     padding: 1rem;
     box-shadow: gray 2px 2px 2px;
     resize: none;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 .contato_form--botao{
